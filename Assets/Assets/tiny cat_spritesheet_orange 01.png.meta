@@ -1,0 +1,2881 @@
+fileFormatVersion: 2
+guid: d8abe99ae46dbad4ba4bed69a1188ec4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5645262431668880247
+    second: tiny cat_spritesheet_orange 01_0
+  - first:
+      213: -8368769233556022025
+    second: tiny cat_spritesheet_orange 01_1
+  - first:
+      213: -5508440025682058452
+    second: tiny cat_spritesheet_orange 01_2
+  - first:
+      213: 8136111894135128449
+    second: tiny cat_spritesheet_orange 01_3
+  - first:
+      213: 9090612405958134464
+    second: tiny cat_spritesheet_orange 01_4
+  - first:
+      213: -6238682479487170519
+    second: tiny cat_spritesheet_orange 01_5
+  - first:
+      213: -471782900009898412
+    second: tiny cat_spritesheet_orange 01_6
+  - first:
+      213: 7465085354427183282
+    second: tiny cat_spritesheet_orange 01_7
+  - first:
+      213: -3543787760732902746
+    second: tiny cat_spritesheet_orange 01_8
+  - first:
+      213: -4087228542326068738
+    second: tiny cat_spritesheet_orange 01_9
+  - first:
+      213: 6936243083344974507
+    second: tiny cat_spritesheet_orange 01_10
+  - first:
+      213: -1264970831105956697
+    second: tiny cat_spritesheet_orange 01_11
+  - first:
+      213: -6056275178016736328
+    second: tiny cat_spritesheet_orange 01_12
+  - first:
+      213: -1354901655341207318
+    second: tiny cat_spritesheet_orange 01_13
+  - first:
+      213: 7167016841136940341
+    second: tiny cat_spritesheet_orange 01_14
+  - first:
+      213: 8878435564819048914
+    second: tiny cat_spritesheet_orange 01_15
+  - first:
+      213: 6251832055894650504
+    second: tiny cat_spritesheet_orange 01_16
+  - first:
+      213: -2944750858180725659
+    second: tiny cat_spritesheet_orange 01_17
+  - first:
+      213: -368221755608309073
+    second: tiny cat_spritesheet_orange 01_18
+  - first:
+      213: 6081735965306934051
+    second: tiny cat_spritesheet_orange 01_19
+  - first:
+      213: -5424738597183169464
+    second: tiny cat_spritesheet_orange 01_20
+  - first:
+      213: 2193375091176782476
+    second: tiny cat_spritesheet_orange 01_21
+  - first:
+      213: -1061342713678223772
+    second: tiny cat_spritesheet_orange 01_22
+  - first:
+      213: 8237782985293239029
+    second: tiny cat_spritesheet_orange 01_23
+  - first:
+      213: -9153876108525403395
+    second: tiny cat_spritesheet_orange 01_24
+  - first:
+      213: -4186575203678281505
+    second: tiny cat_spritesheet_orange 01_25
+  - first:
+      213: 5525270483077374964
+    second: tiny cat_spritesheet_orange 01_26
+  - first:
+      213: -2426747742603799490
+    second: tiny cat_spritesheet_orange 01_27
+  - first:
+      213: 6533936618000535074
+    second: tiny cat_spritesheet_orange 01_28
+  - first:
+      213: -7770493750027689315
+    second: tiny cat_spritesheet_orange 01_29
+  - first:
+      213: 3869199143098364399
+    second: tiny cat_spritesheet_orange 01_30
+  - first:
+      213: 1362433524382752653
+    second: tiny cat_spritesheet_orange 01_31
+  - first:
+      213: 8870049786043205161
+    second: tiny cat_spritesheet_orange 01_32
+  - first:
+      213: 8051752914546341751
+    second: tiny cat_spritesheet_orange 01_33
+  - first:
+      213: -4958383227392353342
+    second: tiny cat_spritesheet_orange 01_34
+  - first:
+      213: -7762951122768403018
+    second: tiny cat_spritesheet_orange 01_35
+  - first:
+      213: -5426106589947192372
+    second: tiny cat_spritesheet_orange 01_36
+  - first:
+      213: 4081527525329236771
+    second: tiny cat_spritesheet_orange 01_37
+  - first:
+      213: -7600716129378582749
+    second: tiny cat_spritesheet_orange 01_38
+  - first:
+      213: -224172025407193626
+    second: tiny cat_spritesheet_orange 01_39
+  - first:
+      213: 5130531439997879503
+    second: tiny cat_spritesheet_orange 01_40
+  - first:
+      213: 8932883823259670145
+    second: tiny cat_spritesheet_orange 01_41
+  - first:
+      213: 1640237863320749149
+    second: tiny cat_spritesheet_orange 01_42
+  - first:
+      213: -1101238142014992017
+    second: tiny cat_spritesheet_orange 01_43
+  - first:
+      213: 6060924650311420229
+    second: tiny cat_spritesheet_orange 01_44
+  - first:
+      213: 5297882039204338631
+    second: tiny cat_spritesheet_orange 01_45
+  - first:
+      213: -7273918543113134872
+    second: tiny cat_spritesheet_orange 01_46
+  - first:
+      213: 1421924387478560862
+    second: tiny cat_spritesheet_orange 01_47
+  - first:
+      213: 2594694067785191695
+    second: tiny cat_spritesheet_orange 01_48
+  - first:
+      213: -3432980647461378954
+    second: tiny cat_spritesheet_orange 01_49
+  - first:
+      213: -6134014352146750047
+    second: tiny cat_spritesheet_orange 01_50
+  - first:
+      213: 7849141700885688182
+    second: tiny cat_spritesheet_orange 01_51
+  - first:
+      213: -6964613207654747070
+    second: tiny cat_spritesheet_orange 01_52
+  - first:
+      213: 2458026643000165314
+    second: tiny cat_spritesheet_orange 01_53
+  - first:
+      213: 5002379600914331051
+    second: tiny cat_spritesheet_orange 01_54
+  - first:
+      213: -4453231364140079947
+    second: tiny cat_spritesheet_orange 01_55
+  - first:
+      213: -1634780763675708628
+    second: tiny cat_spritesheet_orange 01_56
+  - first:
+      213: 4525212888684621476
+    second: tiny cat_spritesheet_orange 01_57
+  - first:
+      213: 1210098321161294202
+    second: tiny cat_spritesheet_orange 01_58
+  - first:
+      213: -6344846304565038543
+    second: tiny cat_spritesheet_orange 01_59
+  - first:
+      213: 8229833504912956829
+    second: tiny cat_spritesheet_orange 01_60
+  - first:
+      213: -6028680644592049244
+    second: tiny cat_spritesheet_orange 01_61
+  - first:
+      213: 1124564073956665422
+    second: tiny cat_spritesheet_orange 01_62
+  - first:
+      213: 4324231162192062162
+    second: tiny cat_spritesheet_orange 01_63
+  - first:
+      213: 1184188656448738005
+    second: tiny cat_spritesheet_orange 01_64
+  - first:
+      213: -6393375949151758450
+    second: tiny cat_spritesheet_orange 01_65
+  - first:
+      213: -4013507983437946790
+    second: tiny cat_spritesheet_orange 01_66
+  - first:
+      213: 3964835401111550938
+    second: tiny cat_spritesheet_orange 01_67
+  - first:
+      213: 196428635012849033
+    second: tiny cat_spritesheet_orange 01_68
+  - first:
+      213: -905175757557334081
+    second: tiny cat_spritesheet_orange 01_69
+  - first:
+      213: 6128722592003445368
+    second: tiny cat_spritesheet_orange 01_70
+  - first:
+      213: -3583483696374537716
+    second: tiny cat_spritesheet_orange 01_71
+  - first:
+      213: 4448104861930388230
+    second: tiny cat_spritesheet_orange 01_72
+  - first:
+      213: -6255172784570503357
+    second: tiny cat_spritesheet_orange 01_73
+  - first:
+      213: 6532039248844212731
+    second: tiny cat_spritesheet_orange 01_74
+  - first:
+      213: 2815349691433735903
+    second: tiny cat_spritesheet_orange 01_75
+  - first:
+      213: 1557462311993035323
+    second: tiny cat_spritesheet_orange 01_76
+  - first:
+      213: 5642968560247171185
+    second: tiny cat_spritesheet_orange 01_77
+  - first:
+      213: -6571120972855052072
+    second: tiny cat_spritesheet_orange 01_78
+  - first:
+      213: 1670686537298199595
+    second: tiny cat_spritesheet_orange 01_79
+  - first:
+      213: 8709256352538941258
+    second: tiny cat_spritesheet_orange 01_80
+  - first:
+      213: 5691498761156235650
+    second: tiny cat_spritesheet_orange 01_81
+  - first:
+      213: -8269982393331775935
+    second: tiny cat_spritesheet_orange 01_82
+  - first:
+      213: 8071740556590978060
+    second: tiny cat_spritesheet_orange 01_83
+  - first:
+      213: -510364989829821890
+    second: tiny cat_spritesheet_orange 01_84
+  - first:
+      213: 14415252014403337
+    second: tiny cat_spritesheet_orange 01_85
+  - first:
+      213: -8348487370100353066
+    second: tiny cat_spritesheet_orange 01_86
+  - first:
+      213: -4748288523359179414
+    second: tiny cat_spritesheet_orange 01_87
+  - first:
+      213: 2662185318704160728
+    second: tiny cat_spritesheet_orange 01_88
+  - first:
+      213: 2849239426203047411
+    second: tiny cat_spritesheet_orange 01_89
+  - first:
+      213: 7527532258351456266
+    second: tiny cat_spritesheet_orange 01_90
+  - first:
+      213: -239217660190396811
+    second: tiny cat_spritesheet_orange 01_91
+  - first:
+      213: 7459308522521339059
+    second: tiny cat_spritesheet_orange 01_92
+  - first:
+      213: 3254547535550142151
+    second: tiny cat_spritesheet_orange 01_93
+  - first:
+      213: 2037744634604014179
+    second: tiny cat_spritesheet_orange 01_94
+  - first:
+      213: -5995040592204280608
+    second: tiny cat_spritesheet_orange 01_95
+  - first:
+      213: -4487655434638370688
+    second: tiny cat_spritesheet_orange 01_96
+  - first:
+      213: 7125611375603224421
+    second: tiny cat_spritesheet_orange 01_97
+  - first:
+      213: 2675354272267221687
+    second: tiny cat_spritesheet_orange 01_98
+  - first:
+      213: 9194492079177630002
+    second: tiny cat_spritesheet_orange 01_99
+  - first:
+      213: -1044153837228582889
+    second: tiny cat_spritesheet_orange 01_100
+  - first:
+      213: -8312026664033303575
+    second: tiny cat_spritesheet_orange 01_101
+  - first:
+      213: 4680906722783826389
+    second: tiny cat_spritesheet_orange 01_102
+  - first:
+      213: -1659326703726455192
+    second: tiny cat_spritesheet_orange 01_103
+  - first:
+      213: -1451548963526747545
+    second: tiny cat_spritesheet_orange 01_104
+  - first:
+      213: 6196699241950831254
+    second: tiny cat_spritesheet_orange 01_105
+  - first:
+      213: 2368483098568761617
+    second: tiny cat_spritesheet_orange 01_106
+  - first:
+      213: -6835575722741977558
+    second: tiny cat_spritesheet_orange 01_107
+  - first:
+      213: -2780900367689040980
+    second: tiny cat_spritesheet_orange 01_108
+  - first:
+      213: 4033137255094242180
+    second: tiny cat_spritesheet_orange 01_109
+  - first:
+      213: 7549520361111767431
+    second: tiny cat_spritesheet_orange 01_110
+  - first:
+      213: -4761843260707655584
+    second: tiny cat_spritesheet_orange 01_111
+  - first:
+      213: -3515202824360124071
+    second: tiny cat_spritesheet_orange 01_112
+  - first:
+      213: -6079186269731090571
+    second: tiny cat_spritesheet_orange 01_113
+  - first:
+      213: 5899541753003946933
+    second: tiny cat_spritesheet_orange 01_114
+  - first:
+      213: 3446525251153839189
+    second: tiny cat_spritesheet_orange 01_115
+  - first:
+      213: -5112133846938121724
+    second: tiny cat_spritesheet_orange 01_116
+  - first:
+      213: 621464899548854642
+    second: tiny cat_spritesheet_orange 01_117
+  - first:
+      213: -9138764402117330745
+    second: tiny cat_spritesheet_orange 01_118
+  - first:
+      213: 4646951034521412862
+    second: tiny cat_spritesheet_orange 01_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18141c629a649e070800000000000000
+      internalID: 8136111894135128449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac4efa1d7582e70800000000000000
+      internalID: 9090612405958134464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c6bfb65fbb69a0800000000000000
+      internalID: -6238682479487170519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6ec9b3f3e379f0800000000000000
+      internalID: -471782900009898412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b07a90049f499760800000000000000
+      internalID: 7465085354427183282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa6322becfe1dec0800000000000000
+      internalID: -3543787760732902746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef921dabb4f3747c0800000000000000
+      internalID: -4087228542326068738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29982a55c724060800000000000000
+      internalID: 6936243083344974507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a53338db567360800000000000000
+      internalID: 7167016841136940341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9eb323b1a863b70800000000000000
+      internalID: 8878435564819048914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e20079128f2c650800000000000000
+      internalID: 6251832055894650504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647c1a42b42227d0800000000000000
+      internalID: -2944750858180725659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26562a340d3eaf0800000000000000
+      internalID: -368221755608309073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32356d553aaa66450800000000000000
+      internalID: 6081735965306934051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cdb83ccf477b4b0800000000000000
+      internalID: -5424738597183169464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a38c0460f607e10800000000000000
+      internalID: 2193375091176782476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a246dc6a5541f0800000000000000
+      internalID: -1061342713678223772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2192fbafb725270800000000000000
+      internalID: 8237782985293239029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df28869bd26e6f080800000000000000
+      internalID: -9153876108525403395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02c4f980c46e5c0800000000000000
+      internalID: -4186575203678281505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f327cfea34bdac40800000000000000
+      internalID: 5525270483077374964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349e9a19c5725ed0800000000000000
+      internalID: -2426747742603799490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec6dc5cb43daa50800000000000000
+      internalID: 6533936618000535074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92e43caa19a92490800000000000000
+      internalID: -7770493750027689315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1bf99ee1822b530800000000000000
+      internalID: 3869199143098364399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fdaea621658e210800000000000000
+      internalID: 1362433524382752653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926822de84fb81b70800000000000000
+      internalID: 8870049786043205161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77730c2ad929dbf60800000000000000
+      internalID: 8051752914546341751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb160fa9b8403bb0800000000000000
+      internalID: -4958383227392353342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56bae6515744490800000000000000
+      internalID: -7762951122768403018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb9ac02ec892b4b0800000000000000
+      internalID: -5426106589947192372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3237a30d8af74a830800000000000000
+      internalID: 4081527525329236771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fbecd53f4d48690800000000000000
+      internalID: -7600716129378582749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed36090bb493ecf0800000000000000
+      internalID: -224172025407193626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40c06792f433740800000000000000
+      internalID: 5130531439997879503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d931428af7fb70800000000000000
+      internalID: 8932883823259670145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54016675ab43c610800000000000000
+      internalID: 1640237863320749149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61d5149ebd97b0f0800000000000000
+      internalID: -1101238142014992017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54988387bdabc1450800000000000000
+      internalID: 6060924650311420229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb52b035abd58940800000000000000
+      internalID: 5297882039204338631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67426433a4a9b50d0800000000000000
+      internalID: -3432980647461378954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52525327a9fdaa0800000000000000
+      internalID: -6134014352146750047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2ff85ac0cdec60800000000000000
+      internalID: 7849141700885688182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244bebf0039b85f90800000000000000
+      internalID: -6964613207654747070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c38878653aac1220800000000000000
+      internalID: 2458026643000165314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b8284eb50c6540800000000000000
+      internalID: 5002379600914331051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46dc52ba1f232c0800000000000000
+      internalID: -4453231364140079947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b77f8e871059e0800000000000000
+      internalID: -1634780763675708628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee01b8529ccce30800000000000000
+      internalID: 4525212888684621476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719d1003022bc010800000000000000
+      internalID: 1210098321161294202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13273f507e392f7a0800000000000000
+      internalID: -6344846304565038543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd1fc18fd363270800000000000000
+      internalID: 8229833504912956829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a361d225e2d55ca0800000000000000
+      internalID: -6028680644592049244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486a5b21114b9f00800000000000000
+      internalID: 1124564073956665422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e12dc451c20c30800000000000000
+      internalID: 4324231162192062162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29ca61f451f6010800000000000000
+      internalID: 1184188656448738005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e879843a27a2647a0800000000000000
+      internalID: -6393375949151758450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50acf7e0c72d48c0800000000000000
+      internalID: -4013507983437946790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb52c6acce50730800000000000000
+      internalID: 3964835401111550938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dd7a58dcad9b200800000000000000
+      internalID: 196428635012849033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfff7fb17b2073f0800000000000000
+      internalID: -905175757557334081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872d64fd9b89d0550800000000000000
+      internalID: 6128722592003445368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0221337098e44ec0800000000000000
+      internalID: -3583483696374537716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b7c0b0ec7dabd30800000000000000
+      internalID: 4448104861930388230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34febf66e792139a0800000000000000
+      internalID: -6255172784570503357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c44ea61776aa50800000000000000
+      internalID: 6532039248844212731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d964c0a1221720800000000000000
+      internalID: 2815349691433735903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a476198b73d9510800000000000000
+      internalID: 1557462311993035323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178ea30020adf4e40800000000000000
+      internalID: 5642968560247171185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8fadc5a40bec4a0800000000000000
+      internalID: -6571120972855052072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24cfa2dd887f2710800000000000000
+      internalID: 1670686537298199595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d5ee428e7dd870800000000000000
+      internalID: 8709256352538941258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac56beeb1dae8f0800000000000000
+      internalID: -510364989829821890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f8aa76896333000800000000000000
+      internalID: 14415252014403337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7555518f6342c80800000000000000
+      internalID: -8348487370100353066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dac1adeb0ba1eb0800000000000000
+      internalID: -4748288523359179414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df1f97417bf1f420800000000000000
+      internalID: 2662185318704160728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5ded689288a8720800000000000000
+      internalID: 2849239426203047411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a002556d4ba277860800000000000000
+      internalID: 7527532258351456266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee9543ec02eacf0800000000000000
+      internalID: -239217660190396811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4ade28499c48760800000000000000
+      internalID: 7459308522521339059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d6118db97a2d20800000000000000
+      internalID: 3254547535550142151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac780e2f5874c10800000000000000
+      internalID: 2037744634604014179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eccd9f28565dcca0800000000000000
+      internalID: -5995040592204280608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885708a825a8b1c0800000000000000
+      internalID: -4487655434638370688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f00520bc143e260800000000000000
+      internalID: 7125611375603224421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7babfc63984c02520800000000000000
+      internalID: 2675354272267221687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231868dd4d5699f70800000000000000
+      internalID: 9194492079177630002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71811210e9b6281f0800000000000000
+      internalID: -1044153837228582889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e348beb9cfb5ac80800000000000000
+      internalID: -8312026664033303575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d194462ddbe5f040800000000000000
+      internalID: 4680906722783826389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866901a8723e8f8e0800000000000000
+      internalID: -1659326703726455192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad6e688ef0bdbe0800000000000000
+      internalID: -1451548963526747545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692696801291ff550800000000000000
+      internalID: 6196699241950831254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11125b254da8ed020800000000000000
+      internalID: 2368483098568761617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e2eaab8182321a0800000000000000
+      internalID: -6835575722741977558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab342479d14869d0800000000000000
+      internalID: -2780900367689040980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b494c07f498f730800000000000000
+      internalID: 4033137255094242180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78945a4f4c845c860800000000000000
+      internalID: 7549520361111767431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060be61a8c88aedb0800000000000000
+      internalID: -4761843260707655584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951a094d7ad773fc0800000000000000
+      internalID: -3515202824360124071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f0f3deb4462aba0800000000000000
+      internalID: -6079186269731090571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b26d97f16fd150800000000000000
+      internalID: 5899541753003946933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny cat_spritesheet_orange 01_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544078947484df20800000000000000
+      internalID: 3446525251153839189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ae9117c84feba9479a8a810196f08ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny cat_spritesheet_orange 01_0: -5645262431668880247
+      tiny cat_spritesheet_orange 01_1: -8368769233556022025
+      tiny cat_spritesheet_orange 01_10: 6936243083344974507
+      tiny cat_spritesheet_orange 01_100: -1044153837228582889
+      tiny cat_spritesheet_orange 01_101: -8312026664033303575
+      tiny cat_spritesheet_orange 01_102: 4680906722783826389
+      tiny cat_spritesheet_orange 01_103: -1659326703726455192
+      tiny cat_spritesheet_orange 01_104: -1451548963526747545
+      tiny cat_spritesheet_orange 01_105: 6196699241950831254
+      tiny cat_spritesheet_orange 01_106: 2368483098568761617
+      tiny cat_spritesheet_orange 01_107: -6835575722741977558
+      tiny cat_spritesheet_orange 01_108: -2780900367689040980
+      tiny cat_spritesheet_orange 01_109: 4033137255094242180
+      tiny cat_spritesheet_orange 01_11: -1264970831105956697
+      tiny cat_spritesheet_orange 01_110: 7549520361111767431
+      tiny cat_spritesheet_orange 01_111: -4761843260707655584
+      tiny cat_spritesheet_orange 01_112: -3515202824360124071
+      tiny cat_spritesheet_orange 01_113: -6079186269731090571
+      tiny cat_spritesheet_orange 01_114: 5899541753003946933
+      tiny cat_spritesheet_orange 01_115: 3446525251153839189
+      tiny cat_spritesheet_orange 01_12: -6056275178016736328
+      tiny cat_spritesheet_orange 01_13: -1354901655341207318
+      tiny cat_spritesheet_orange 01_14: 7167016841136940341
+      tiny cat_spritesheet_orange 01_15: 8878435564819048914
+      tiny cat_spritesheet_orange 01_16: 6251832055894650504
+      tiny cat_spritesheet_orange 01_17: -2944750858180725659
+      tiny cat_spritesheet_orange 01_18: -368221755608309073
+      tiny cat_spritesheet_orange 01_19: 6081735965306934051
+      tiny cat_spritesheet_orange 01_2: -5508440025682058452
+      tiny cat_spritesheet_orange 01_20: -5424738597183169464
+      tiny cat_spritesheet_orange 01_21: 2193375091176782476
+      tiny cat_spritesheet_orange 01_22: -1061342713678223772
+      tiny cat_spritesheet_orange 01_23: 8237782985293239029
+      tiny cat_spritesheet_orange 01_24: -9153876108525403395
+      tiny cat_spritesheet_orange 01_25: -4186575203678281505
+      tiny cat_spritesheet_orange 01_26: 5525270483077374964
+      tiny cat_spritesheet_orange 01_27: -2426747742603799490
+      tiny cat_spritesheet_orange 01_28: 6533936618000535074
+      tiny cat_spritesheet_orange 01_29: -7770493750027689315
+      tiny cat_spritesheet_orange 01_3: 8136111894135128449
+      tiny cat_spritesheet_orange 01_30: 3869199143098364399
+      tiny cat_spritesheet_orange 01_31: 1362433524382752653
+      tiny cat_spritesheet_orange 01_32: 8870049786043205161
+      tiny cat_spritesheet_orange 01_33: 8051752914546341751
+      tiny cat_spritesheet_orange 01_34: -4958383227392353342
+      tiny cat_spritesheet_orange 01_35: -7762951122768403018
+      tiny cat_spritesheet_orange 01_36: -5426106589947192372
+      tiny cat_spritesheet_orange 01_37: 4081527525329236771
+      tiny cat_spritesheet_orange 01_38: -7600716129378582749
+      tiny cat_spritesheet_orange 01_39: -224172025407193626
+      tiny cat_spritesheet_orange 01_4: 9090612405958134464
+      tiny cat_spritesheet_orange 01_40: 5130531439997879503
+      tiny cat_spritesheet_orange 01_41: 8932883823259670145
+      tiny cat_spritesheet_orange 01_42: 1640237863320749149
+      tiny cat_spritesheet_orange 01_43: -1101238142014992017
+      tiny cat_spritesheet_orange 01_44: 6060924650311420229
+      tiny cat_spritesheet_orange 01_45: 5297882039204338631
+      tiny cat_spritesheet_orange 01_46: -7273918543113134872
+      tiny cat_spritesheet_orange 01_47: 1421924387478560862
+      tiny cat_spritesheet_orange 01_48: 2594694067785191695
+      tiny cat_spritesheet_orange 01_49: -3432980647461378954
+      tiny cat_spritesheet_orange 01_5: -6238682479487170519
+      tiny cat_spritesheet_orange 01_50: -6134014352146750047
+      tiny cat_spritesheet_orange 01_51: 7849141700885688182
+      tiny cat_spritesheet_orange 01_52: -6964613207654747070
+      tiny cat_spritesheet_orange 01_53: 2458026643000165314
+      tiny cat_spritesheet_orange 01_54: 5002379600914331051
+      tiny cat_spritesheet_orange 01_55: -4453231364140079947
+      tiny cat_spritesheet_orange 01_56: -1634780763675708628
+      tiny cat_spritesheet_orange 01_57: 4525212888684621476
+      tiny cat_spritesheet_orange 01_58: 1210098321161294202
+      tiny cat_spritesheet_orange 01_59: -6344846304565038543
+      tiny cat_spritesheet_orange 01_6: -471782900009898412
+      tiny cat_spritesheet_orange 01_60: 8229833504912956829
+      tiny cat_spritesheet_orange 01_61: -6028680644592049244
+      tiny cat_spritesheet_orange 01_62: 1124564073956665422
+      tiny cat_spritesheet_orange 01_63: 4324231162192062162
+      tiny cat_spritesheet_orange 01_64: 1184188656448738005
+      tiny cat_spritesheet_orange 01_65: -6393375949151758450
+      tiny cat_spritesheet_orange 01_66: -4013507983437946790
+      tiny cat_spritesheet_orange 01_67: 3964835401111550938
+      tiny cat_spritesheet_orange 01_68: 196428635012849033
+      tiny cat_spritesheet_orange 01_69: -905175757557334081
+      tiny cat_spritesheet_orange 01_7: 7465085354427183282
+      tiny cat_spritesheet_orange 01_70: 6128722592003445368
+      tiny cat_spritesheet_orange 01_71: -3583483696374537716
+      tiny cat_spritesheet_orange 01_72: 4448104861930388230
+      tiny cat_spritesheet_orange 01_73: -6255172784570503357
+      tiny cat_spritesheet_orange 01_74: 6532039248844212731
+      tiny cat_spritesheet_orange 01_75: 2815349691433735903
+      tiny cat_spritesheet_orange 01_76: 1557462311993035323
+      tiny cat_spritesheet_orange 01_77: 5642968560247171185
+      tiny cat_spritesheet_orange 01_78: -6571120972855052072
+      tiny cat_spritesheet_orange 01_79: 1670686537298199595
+      tiny cat_spritesheet_orange 01_8: -3543787760732902746
+      tiny cat_spritesheet_orange 01_80: 8709256352538941258
+      tiny cat_spritesheet_orange 01_81: 5691498761156235650
+      tiny cat_spritesheet_orange 01_82: -8269982393331775935
+      tiny cat_spritesheet_orange 01_83: 8071740556590978060
+      tiny cat_spritesheet_orange 01_84: -510364989829821890
+      tiny cat_spritesheet_orange 01_85: 14415252014403337
+      tiny cat_spritesheet_orange 01_86: -8348487370100353066
+      tiny cat_spritesheet_orange 01_87: -4748288523359179414
+      tiny cat_spritesheet_orange 01_88: 2662185318704160728
+      tiny cat_spritesheet_orange 01_89: 2849239426203047411
+      tiny cat_spritesheet_orange 01_9: -4087228542326068738
+      tiny cat_spritesheet_orange 01_90: 7527532258351456266
+      tiny cat_spritesheet_orange 01_91: -239217660190396811
+      tiny cat_spritesheet_orange 01_92: 7459308522521339059
+      tiny cat_spritesheet_orange 01_93: 3254547535550142151
+      tiny cat_spritesheet_orange 01_94: 2037744634604014179
+      tiny cat_spritesheet_orange 01_95: -5995040592204280608
+      tiny cat_spritesheet_orange 01_96: -4487655434638370688
+      tiny cat_spritesheet_orange 01_97: 7125611375603224421
+      tiny cat_spritesheet_orange 01_98: 2675354272267221687
+      tiny cat_spritesheet_orange 01_99: 9194492079177630002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

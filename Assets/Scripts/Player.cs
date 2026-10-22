@@ -2,11 +2,20 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public static Player Instance;
     private float speed = 5f;
     [SerializeField] Animator animator;
 
-    void Start()
+    void Awake()
     {
+        if(Instance != null && Instance != this)
+        {
+            Destroy(this);
+        }
+        else
+        {
+            Instance = this;
+        }
         
     }
 

@@ -1,10 +1,17 @@
 using UnityEngine;
+using System.Collections.Generic;
+using System;
+
+
 
 public class Player : MonoBehaviour
 {
     public static Player Instance;
-    private float speed = 5f;
+    private float speed = 6f;
     [SerializeField] Animator animator;
+    public float playerMaxHealth = 100f;
+    public float playerHealth;
+
 
     void Awake()
     {
@@ -19,7 +26,11 @@ public class Player : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    void Start()
+    {
+        playerHealth = playerMaxHealth;
+    }
+
     void Update()
     {
        PlayerMove(); 
@@ -51,6 +62,15 @@ public class Player : MonoBehaviour
     pos.x = Mathf.Clamp(pos.x, -19.5f, 21.6f);
     pos.y = Mathf.Clamp(pos.y, -16.1f, 10.3f);
     transform.position = pos;
-        
+    }
+      
+    
+    public void TakeDamage(float damage)
+    {
+        playerHealth -= damage;
+        if(playerHealth <= 0)
+        {
+            gameObject.SetActive(false);
+        }
     }
 }

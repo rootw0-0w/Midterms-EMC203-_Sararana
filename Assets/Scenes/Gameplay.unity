@@ -3067,7 +3067,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.8, y: 3.8014565}
+  m_AnchoredPosition: {x: -2, y: 3.8014565}
   m_SizeDelta: {x: 31.805, y: 8.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1052850950
@@ -3487,6 +3487,13 @@ MonoBehaviour:
     speed: 0.5
     amount: 2
     description: Range+1 Damage+1
+  - cooldown: 2
+    duration: 4
+    damage: 8
+    range: 4
+    speed: 0.5
+    amount: 2
+    description: Damage+1
   weaponImage: {fileID: -2517000976883871078, guid: 842e32c679fff134585bf4248dfe822c, type: 3}
   description: Aoe Damage
   prefab: {fileID: 4489950901389830598, guid: a352708a49acfea4e8dfa4f027604730, type: 3}

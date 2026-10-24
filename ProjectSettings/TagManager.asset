@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -45,8 +46,14 @@ TagManager:
   - name: Background
     uniqueID: 1186547033
     locked: 0
+  - name: Weapons
+    uniqueID: 1529386919
+    locked: 0
   - name: Objects
     uniqueID: 1156923409
+    locked: 0
+  - name: Foreground
+    uniqueID: 775875347
     locked: 0
   m_RenderingLayers:
   - Default

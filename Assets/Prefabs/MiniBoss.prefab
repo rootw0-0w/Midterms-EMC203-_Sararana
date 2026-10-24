@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5526031701018188242}
   - component: {fileID: 9220674032702683623}
   - component: {fileID: -8264404546245702472}
+  - component: {fileID: 5696643282192555649}
   m_Layer: 6
   m_Name: MiniBoss
   m_TagString: Boss
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1156923409
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -7984336325675136224, guid: 75aa13c0cb2e84c44ac3f4555380b819, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -125,3 +126,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyrenderer1: {fileID: 5526031701018188242}
   explosionPrefab: {fileID: 2783445118171217689, guid: dde9f10bbe266864bb7a274aa65b0522, type: 3}
+  gemPrefab: {fileID: 4958441020583310344, guid: 48b0c01d669ee1a498803f2041ab670c, type: 3}
+  damage: 10
+  experienceToGive: 30
+  pushTime: 0.2
+  maxHealth: 15
+--- !u!114 &5696643282192555649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4630155092583877677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e26e70061a438b4da8b929be2339699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

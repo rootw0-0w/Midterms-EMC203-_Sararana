@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 722649841188992848}
   - component: {fileID: 8615443038371397143}
   - component: {fileID: 5547046562839452365}
+  - component: {fileID: -8380291444102950363}
   m_Layer: 6
   m_Name: Enemy 1
   m_TagString: Enemy
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1156923409
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -1824959013013942182, guid: a92fb9d27a5d0b5409745fb44f75588a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -103,6 +104,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyrenderer1: {fileID: 722649841188992848}
   explosionPrefab: {fileID: 6314345041768449936, guid: f505e21b9e7f42f4db9002515d892e93, type: 3}
+  gemPrefab: {fileID: 4958441020583310344, guid: 48b0c01d669ee1a498803f2041ab670c, type: 3}
+  damage: 1
+  experienceToGive: 5
+  pushTime: 0.5
+  maxHealth: 3
 --- !u!95 &5547046562839452365
 Animator:
   serializedVersion: 7
@@ -125,3 +131,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-8380291444102950363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8036448764702364592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e26e70061a438b4da8b929be2339699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

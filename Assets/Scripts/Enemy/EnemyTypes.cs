@@ -4,10 +4,15 @@ public class EnemyTypes : MonoBehaviour
 {
     [SerializeField] SpriteRenderer enemyrenderer1;
     [SerializeField] GameObject explosionPrefab;
-    private float speed = 3.5f;
+    [SerializeField] GameObject gemPrefab;
+    [SerializeField] public float damage;
+    [SerializeField] public int experienceToGive;
+    [SerializeField] private float pushTime;
 
-    public int maxHealth = 20;
-    private int currentHealth;
+    private float pushCounter;
+    private float speed = 3.5f;
+    public float maxHealth;
+    private float currentHealth;
 
     void OnEnable()
     {
@@ -28,20 +33,26 @@ public class EnemyTypes : MonoBehaviour
                 enemyrenderer1.flipX = true;
             }
 
+             // push back
+            if (pushCounter > 0){
+                pushCounter -= Time.deltaTime;
+                if (speed > 0){
+                    speed = -speed;
+                }
+                if (pushCounter <= 0){
+                    speed = Mathf.Abs(speed);
+                }
+            }
+            
+
         // Move towards player
         transform.position = Vector2.MoveTowards(transform.position, playerPos, speed * Time.deltaTime);
-
-        //Destroys when close
-        if ((playerPos - transform.position).sqrMagnitude < 0.50f)   
-        {
-            Death();
-
-        }
     }
-public void TakeDamage(int damage)
+
+public void TakeDamage(float damage)
     {
         currentHealth -= damage;
-        
+        pushCounter = pushTime;
         if (currentHealth <= 0)
         {
             Death();
@@ -50,16 +61,19 @@ public void TakeDamage(int damage)
 
     void Death()
     {
-        // Damage the player when the enemy dies
-        if (Player.Instance != null) 
-        {
-            Player.Instance.TakeDamage(5);
-        }
-
         GameObject explosion = Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-        Destroy(explosion, 0.5f);   
+        Destroy(explosion, 0.5f);
         
+        GameObject gems = Instantiate(gemPrefab, transform.position, Quaternion.identity);   
+        
+        Gem gemScript = gems.GetComponent<Gem>();
+        if (gemScript != null)
+        {
+            gemScript.experienceToGive = experienceToGive; // Pass your enemy's XP value here
+        };
+
         // Return to pool
         EnemyFactory.I.ReleaseEnemy1(gameObject);
+        
     }
 }

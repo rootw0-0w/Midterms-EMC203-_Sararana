@@ -77,7 +77,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1156923409
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 1377519692500969528, guid: abd7857a4fb2a4c4daf1fab3a7ac18db, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rocketPrefab: {fileID: 8434100737527912541, guid: faf741f02caeaa8429a28332948101c6, type: 3}
   rocketCount: 5
-  speed: 6
+  shootDelay: 3
 --- !u!114 &-7274446996408494316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -141,3 +141,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyrenderer1: {fileID: 3717084749094558031}
   explosionPrefab: {fileID: 6314345041768449936, guid: f505e21b9e7f42f4db9002515d892e93, type: 3}
+  gemPrefab: {fileID: 4958441020583310344, guid: 48b0c01d669ee1a498803f2041ab670c, type: 3}
+  damage: 5
+  experienceToGive: 15
+  pushTime: 0.5
+  maxHealth: 5

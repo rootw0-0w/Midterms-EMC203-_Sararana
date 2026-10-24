@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1649201183315686214}
   - component: {fileID: 6915917460303697542}
-  - component: {fileID: -5140911169415883547}
+  - component: {fileID: -2840061316082168452}
   m_Layer: 0
   m_Name: AreaWeaponPrefab
   m_TagString: Untagged
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-5140911169415883547
+--- !u!114 &-2840061316082168452
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,6 +97,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7243935974043011441}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e12525c159eb1ee43a3661c9c18c46ac, type: 3}
+  m_Script: {fileID: 11500000, guid: 66472b4aa03e29447a409b652cca6504, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weapon: {fileID: 0}

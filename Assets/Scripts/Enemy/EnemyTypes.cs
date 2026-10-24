@@ -13,6 +13,8 @@ public class EnemyTypes : MonoBehaviour
     private float speed = 3.5f;
     public float maxHealth;
     private float currentHealth;
+    public float contactRadius = 1f;
+    private float nextDamageTime = 0f;
 
     void OnEnable()
     {
@@ -47,7 +49,18 @@ public class EnemyTypes : MonoBehaviour
 
         // Move towards player
         transform.position = Vector2.MoveTowards(transform.position, playerPos, speed * Time.deltaTime);
+
+        if (Vector2.Distance(transform.position, playerPos) < contactRadius)
+        {
+            if (Time.time >= nextDamageTime)
+            {
+                Player.Instance.TakeDamage(damage);
+                nextDamageTime = Time.time + 1f; 
+            }
+        }
     }
+
+    
 
 public void TakeDamage(float damage)
     {

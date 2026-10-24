@@ -28,12 +28,17 @@ public class GameManager : MonoBehaviour
     
         if (gameActive){
             gameTime += Time.deltaTime;
-           UIController.Instance.UpdateTimer(gameTime);
-           if (gameTime >= winTime) 
-            {
-                WinGame();
-            }
         }
+           
+           if (UIController.Instance != null && SceneManager.GetActiveScene().name == "Gameplay")
+            {
+                UIController.Instance.UpdateTimer(gameTime);
+
+                if (gameTime >= winTime) 
+                {
+                    WinGame();
+                }
+            }
         
     }
 
@@ -82,7 +87,7 @@ public class GameManager : MonoBehaviour
         //AudioController.Instance.PlaySound(AudioController.Instance.unpause);
     }
      public void NewGame(){
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Gameplay");
     }
 
     public void QuitGame(){

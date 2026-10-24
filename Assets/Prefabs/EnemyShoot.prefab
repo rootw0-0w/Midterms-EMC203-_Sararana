@@ -127,10 +127,11 @@ MonoBehaviour:
   enemyrenderer1: {fileID: 5342799832257469293}
   explosionPrefab: {fileID: 6314345041768449936, guid: f505e21b9e7f42f4db9002515d892e93, type: 3}
   gemPrefab: {fileID: 4958441020583310344, guid: 48b0c01d669ee1a498803f2041ab670c, type: 3}
-  damage: 2
+  damage: 0
   experienceToGive: 5
   pushTime: 0.5
   maxHealth: 4
+  contactRadius: 1
 --- !u!114 &5192984897496218671
 MonoBehaviour:
   m_ObjectHideFlags: 0
